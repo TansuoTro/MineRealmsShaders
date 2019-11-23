@@ -1,9 +1,9 @@
-# Wisdom-Shaders
-A Minecraft shaderspack. Offers high performance with high quality at the same time.
+# MineRealms-Shaders
+A Minecraft shaderspack for MineRealms Group Server.
 
 Requirements&Specifications are on the website.
 
 This shader is in THE APACHE License, more information in LICENSE.TXT
 
 # Official website
-https://qionouu.cn/
+https://minerealms.cn:666
